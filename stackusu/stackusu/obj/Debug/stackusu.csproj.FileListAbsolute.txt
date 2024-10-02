@@ -1,0 +1,7 @@
+D:\coding\repos\stackusu\stackusu\obj\Debug\stackusu.csproj.AssemblyReference.cache
+D:\coding\repos\stackusu\stackusu\obj\Debug\stackusu.csproj.CoreCompileInputs.cache
+D:\coding\repos\stackusu\stackusu\bin\Debug\stackusu.exe.config
+D:\coding\repos\stackusu\stackusu\bin\Debug\stackusu.exe
+D:\coding\repos\stackusu\stackusu\bin\Debug\stackusu.pdb
+D:\coding\repos\stackusu\stackusu\obj\Debug\stackusu.exe
+D:\coding\repos\stackusu\stackusu\obj\Debug\stackusu.pdb

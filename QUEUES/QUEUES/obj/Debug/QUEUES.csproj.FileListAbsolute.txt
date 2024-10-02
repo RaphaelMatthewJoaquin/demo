@@ -1,0 +1,7 @@
+D:\coding\repos\QUEUES\QUEUES\bin\Debug\QUEUES.exe.config
+D:\coding\repos\QUEUES\QUEUES\bin\Debug\QUEUES.exe
+D:\coding\repos\QUEUES\QUEUES\bin\Debug\QUEUES.pdb
+D:\coding\repos\QUEUES\QUEUES\obj\Debug\QUEUES.csproj.AssemblyReference.cache
+D:\coding\repos\QUEUES\QUEUES\obj\Debug\QUEUES.csproj.CoreCompileInputs.cache
+D:\coding\repos\QUEUES\QUEUES\obj\Debug\QUEUES.exe
+D:\coding\repos\QUEUES\QUEUES\obj\Debug\QUEUES.pdb

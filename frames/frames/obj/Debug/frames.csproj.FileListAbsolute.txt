@@ -1,0 +1,7 @@
+D:\coding\repos\frames\frames\bin\Debug\frames.exe.config
+D:\coding\repos\frames\frames\bin\Debug\frames.exe
+D:\coding\repos\frames\frames\bin\Debug\frames.pdb
+D:\coding\repos\frames\frames\obj\Debug\frames.csproj.AssemblyReference.cache
+D:\coding\repos\frames\frames\obj\Debug\frames.csproj.CoreCompileInputs.cache
+D:\coding\repos\frames\frames\obj\Debug\frames.exe
+D:\coding\repos\frames\frames\obj\Debug\frames.pdb
